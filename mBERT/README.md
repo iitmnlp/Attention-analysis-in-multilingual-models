@@ -64,7 +64,7 @@ For fine tuning on XNLI in each of the six languages - Tesla V100 GPUs are used,
 Average runtime for fine tuning
 --------------------------------------------------------------------------------
 
-Fine tuning on Tesla P100 GPU - approx 45 mins per epoch
+Fine tuning on Tesla P100 GPU - approx 45 mins per epoch  
 Fine tuning on Tesla V100 GPU - approx 1.5 hours per epoch
 
 Number of parameters
