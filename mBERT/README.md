@@ -16,6 +16,9 @@ The process mainly consists of two steps:
 1. Run the statistical tests using the datasets to compute sieve bias scores and persist it.
 2. Do data analysis using the sieve scores to draw various insights.
 
+Drive folder containing datasets and weights - https://drive.google.com/drive/u/0/folders/1aM_FoJiNG4C_btVA_NN4wfkWOBV9Y2Km 
+
+
 Requirements
 ---------------
 Python 3.7.10  
